@@ -1,5 +1,2 @@
-# Modeller's Guide to PET Imaging / Data
-In the book we have used time-activity curves from 6 PET scans and each scan has various ROIs. Here is a list of the data files:
-1. aa
-2. aa
-3. aa
+# Modeller's Guide to PET Imaging
+In this repository the codes related to book Modeller’s Guide to PET Imaging by Riku Klén and Oona Rainio are stored. Codes for each chapter of the book can be found in a dedicated folder. The folder Summary contains time activity curves (TACs) for the example data used in the book.
